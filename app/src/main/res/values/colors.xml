@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="main_cerceve_renk">#74E779</color>
+    <color name="ilk_cerceve_renk">#59E6AD</color>
+    <color name="ikinci_cerceve_renk">#E76840</color>
+
+
+</resources>
